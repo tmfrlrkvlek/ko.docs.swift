@@ -1,7 +1,5 @@
 # Access Control(접근 제어)
 
-[Summary - Access Control ](https://www.notion.so/Summary-Access-Control-5b65f3487cbe4b24807f921aeaa094b2)
-
 [Access Control - The Swift Programming Language (Swift 5.6)](https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html#//apple_ref/doc/uid/TP40014097-CH41-ID3)
 
 다른 소스 파일 및 모듈의 코드에서 코드에 대한 접근을 제한한다. 코드 구현의 세부 정보를 숨기고, 해당 코드를 접근하고 사용할 수 있는 인터페이스를 지정한다.
